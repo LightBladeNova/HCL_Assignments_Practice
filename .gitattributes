@@ -1,2 +1,4 @@
 *.mov filter=lfs diff=lfs merge=lfs -text
 Gmail_Android_Login/Gmail_Android_Video.mov filter=lfs diff=lfs merge=lfs -text
+* linguist-vendored
+*.py linguist-vendored=false
