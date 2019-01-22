@@ -1,0 +1,21 @@
+Load: 1.13 / 0.33 / 0.51
+CPU usage from 10266ms to 4327ms ago (2019-01-21 11:45:00.556 to 2019-01-21 11:45:06.495):
+  75% 1940/system_server: 47% user + 27% kernel / faults: 19955 minor
+  11% 22922/adbd: 0.6% user + 10% kernel / faults: 123468 minor
+  1.6% 1531/logd: 0.8% user + 0.8% kernel / faults: 12 minor
+  1.1% 29640/com.google.android.googlequicksearchbox:search: 1.1% user + 0% kernel / faults: 903 minor
+  0.5% 1605/android.hardware.sensors@1.0-service: 0% user + 0.5% kernel
+  0.3% 793/hwrng: 0% user + 0.3% kernel
+  0.3% 1532/servicemanager: 0% user + 0.3% kernel
+  0.3% 1803/android.hardware.graphics.composer@2.1-service: 0.1% user + 0.1% kernel
+  0% 1600/android.hardware.health@2.0-service.goldfish: 0% user + 0% kernel
+  0% 1604/android.hardware.power@1.1-service.ranchu: 0% user + 0% kernel
+  0.1% 1606/android.hardware.wifi@1.0-service: 0% user + 0.1% kernel / faults: 392 minor
+  0% 1791/rild: 0% user + 0% kernel
+  0.1% 2289/com.android.phone: 0.1% user + 0% kernel / faults: 6 minor
+  0% 17847/android.hardware.audio@2.0-service: 0% user + 0% kernel / faults: 12 minor
+  0% 17848/audioserver: 0% user + 0% kernel / faults: 140 minor
+  0.1% 20667/kworker/u4:1: 0% user + 0.1% kernel
+  0.1% 26375/com.google.android.gms.persistent: 0.1% user + 0% kernel / faults: 20 minor
+ +0% 22695/dumpsys: 0% user + 0% kernel
+51% TOTAL: 29% user + 22% kernel + 0.5% softirq

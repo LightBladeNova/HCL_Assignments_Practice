@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>File Uploader/Downloader</title>
+    </head>
+    <body>
+        <h1>Welcome to File Uploader/Downloader</h1>
+        <form action="/upload" method="POST" enctype="multipart/form-data">
+        	<input type="file" name="file">
+            <input type="submit" value="Upload">
+		</form>
+        <form action="/download" method="POST">
+            <input type="submit" name="download_page" value="To Download Page">
+        </form>
+        <form action="/delete" method="POST">
+            <input type="submit" name="delete_page" value="To Delete Page">
+        </form>
+        <h2>{{ file_upload_status }}</h2>
+        <h2>{{ filename }}</h2>
+        <h2>{{ filesize }}</h2>
+    </body>
+</html>

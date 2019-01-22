@@ -1,0 +1,972 @@
+Per-PID Stats:
+  PID 0 wake time: +4m0s345ms
+  PID 1940 wake time: +1h45m49s783ms
+  PID 2289 wake time: +430ms
+  PID 1940 wake time: +5m41s278ms
+  PID 2289 wake time: +2m25s12ms
+  PID 1940 wake time: +238ms
+  PID 1940 wake time: +22ms
+  PID 2745 wake time: +16ms
+  PID 0 wake time: +47m18s313ms
+  PID 1940 wake time: +1ms
+  PID 1940 wake time: +123ms
+  PID 1940 wake time: +3s606ms
+  PID 1940 wake time: +110ms
+  PID 1940 wake time: +26ms
+  PID 1940 wake time: +4m29s641ms
+  PID 2733 wake time: +13m21s167ms
+  PID 26375 wake time: +1m18s475ms
+  PID 1940 wake time: +3s624ms
+  PID 1940 wake time: +12m13s137ms
+  PID 1940 wake time: +29ms
+  PID 1940 wake time: +1ms
+  PID 1940 wake time: +1ms
+  PID 1940 wake time: +7s506ms
+  PID 1940 wake time: +1h28m53s855ms
+  PID 2289 wake time: +31ms
+  PID 26375 wake time: +13m9s128ms
+  PID 29760 wake time: +13m20s14ms
+  PID 1940 wake time: +677ms
+  PID 1940 wake time: +8s924ms
+  PID 1940 wake time: +2s262ms
+  PID 1940 wake time: +17ms
+  PID 1940 wake time: +4s129ms
+  PID 1940 wake time: +57m48s114ms
+  PID 2289 wake time: +2s43ms
+  PID 2733 wake time: +8m55s123ms
+  PID 2745 wake time: +1m22s319ms
+  PID 19842 wake time: +7m18s205ms
+  PID 26375 wake time: +1m3s725ms
+  PID 29640 wake time: +12m16s351ms
+  PID 29760 wake time: +3m3s797ms
+  PID 1940 wake time: +5ms
+  PID 1940 wake time: +28ms
+  PID 1940 wake time: +9m4s61ms
+  PID 1940 wake time: +1s767ms
+  PID 1940 wake time: +29ms
+  PID 1940 wake time: +1s839ms
+  PID 1940 wake time: +64ms
+  PID 1940 wake time: +19ms
+  PID 1940 wake time: +1ms
+  PID 1940 wake time: +8ms
+  PID 1940 wake time: 0
+  PID 1940 wake time: +2s645ms
+  PID 1940 wake time: +5ms
+  PID 1940 wake time: +20ms
+  PID 1940 wake time: +7ms
+  PID 1940 wake time: +7ms
+  PID 0 wake time: +7s898ms
+  PID 1940 wake time: +410ms
+  PID 2190 wake time: +34s142ms
+  PID 1940 wake time: +27ms
+  PID 1940 wake time: +2ms
+  PID 1940 wake time: +12ms
+  PID 1940 wake time: +111ms
+  PID 1940 wake time: +2s516ms
+  PID 2733 wake time: +6m14s810ms
+  PID 2745 wake time: +55s99ms
+  PID 19842 wake time: +1m12s724ms
+  PID 26375 wake time: +3m3s285ms
+  PID 29760 wake time: +4m22s295ms
+  PID 1940 wake time: +41s116ms
+  PID 2745 wake time: +37s454ms
+  PID 19842 wake time: +6s904ms
+  PID 29760 wake time: +231ms
+  PID 1940 wake time: +27ms
+  PID 1940 wake time: +11ms
+  PID 1940 wake time: +2m7s103ms
+  PID 2733 wake time: +1m29s927ms
+  PID 2745 wake time: +5m8s279ms
+  PID 19842 wake time: +16s71ms
+  PID 29760 wake time: +3m58s649ms
+  PID 1940 wake time: +2ms
+  PID 1940 wake time: +1ms
+  PID 1940 wake time: +7s307ms
+  PID 2733 wake time: +2s196ms
+  PID 2745 wake time: +823ms
+  PID 19842 wake time: +74ms
+  PID 26375 wake time: +797ms
+  PID 29760 wake time: +90ms
+  PID 1940 wake time: +14ms
+  PID 1940 wake time: +90ms
+  PID 1940 wake time: +1h4m2s628ms
+  PID 2745 wake time: +5m38s237ms
+  PID 19842 wake time: +14m18s546ms
+  PID 29760 wake time: +4m12s731ms
+  PID 1940 wake time: +47ms
+  PID 1940 wake time: +1m29s909ms
+  PID 2745 wake time: +1m21s676ms
+  PID 19842 wake time: +5m59s807ms
+  PID 29760 wake time: +3m16s73ms
+  PID 1940 wake time: +22m3s295ms
+  PID 1940 wake time: +1ms
+  PID 1940 wake time: +15s538ms
+  PID 2733 wake time: +41s469ms
+  PID 2745 wake time: +25s390ms
+  PID 19842 wake time: +2m28s419ms
+  PID 26375 wake time: +5s403ms
+  PID 29760 wake time: +37s49ms
+  PID 1940 wake time: +16ms
+  PID 1940 wake time: +1s657ms
+  PID 1940 wake time: +18ms
+  PID 1940 wake time: +118ms
+  PID 1940 wake time: +12ms
+  PID 1940 wake time: +53ms
+  PID 1940 wake time: +8ms
+  PID 1940 wake time: +52ms
+  PID 1940 wake time: +1ms
+  PID 1940 wake time: +26ms
+  PID 1940 wake time: +9ms
+  PID 2745 wake time: +829ms
+  PID 1940 wake time: +31ms
+  PID 1940 wake time: +18ms
+  PID 1940 wake time: +20ms
+  PID 1940 wake time: +1ms
+  PID 1940 wake time: +116ms
+  PID 1940 wake time: +15m41s197ms
+  PID 16862 wake time: +6s935ms
+  PID 1940 wake time: +3ms
+  PID 1940 wake time: +35m23s417ms
+  PID 1940 wake time: +1ms
+  PID 1940 wake time: +56ms
+  PID 1940 wake time: +1m50s885ms
+  PID 2733 wake time: +4m7s513ms
+  PID 2745 wake time: +9s974ms
+  PID 19842 wake time: +2s664ms
+  PID 26375 wake time: +13s721ms
+  PID 1940 wake time: +2s637ms
+  PID 2733 wake time: +48s405ms
+  PID 2745 wake time: +63ms
+  PID 26375 wake time: +19s763ms
+  PID 1940 wake time: +8s596ms
+  PID 2745 wake time: +4s834ms
+  PID 1940 wake time: +3m21s207ms
+  PID 2745 wake time: +162ms
+
+Daily stats:
+  Current start time: 2019-01-14-14-52-40
+  Next min deadline: 2019-01-14-17-00-00
+  Next max deadline: 2019-01-14-19-00-00
+    Package changes:
+      Update com.example.brendankwlee.hcl_assignment vers=1
+      Update com.example.brendankwlee.hcl_assignment vers=1
+      Update io.appium.settings vers=13
+      Update com.google.android.gm vers=61011251
+      Update com.google.android.gm vers=61011251
+
+Statistics since last charge:
+  System starts: 1, currently on battery: false
+  Estimated battery capacity: 1000 mAh
+  Min learned battery capacity: 300 mAh
+  Max learned battery capacity: 300 mAh
+  Time on battery: 0ms (0.0%) realtime, 0ms (--%) uptime
+  Time on battery screen off: 0ms (--%) realtime, 0ms (--%) uptime
+  Time on battery screen doze: 0ms (--%)
+  Total run time: 1d 20h 49m 35s 818ms realtime, 1d 20h 49m 35s 818ms uptime
+  Discharge: 0 mAh
+  Screen off discharge: 0 mAh
+  Screen doze discharge: 0 mAh
+  Screen on discharge: 0 mAh
+  Device light doze discharge: 0 mAh
+  Device deep doze discharge: 0 mAh
+  Start clock time: 2019-01-14-14-52-40
+  Screen on: 0ms (--%) 0x, Interactive: 0ms (--%)
+  Screen brightnesses: (no activity)
+  Connectivity changes: 19
+
+  CONNECTIVITY POWER SUMMARY START
+  Logging duration for connectivity statistics: 0ms 
+  Cellular Statistics:
+     Cellular kernel active time: 0ms (--%)
+     Cellular data received: 0B
+     Cellular data sent: 0B
+     Cellular packets received: 0
+     Cellular packets sent: 0
+     Cellular Radio Access Technology: (no activity)
+     Cellular Rx signal strength (RSRP): (no activity)
+     Cellular Sleep time:  0ms (--%)
+     Cellular Idle time:   0ms (--%)
+     Cellular Rx time:     0ms (--%)
+     Cellular Tx time:     
+       less than 0dBm:  0ms (--%)
+       0dBm to 8dBm:  0ms (--%)
+       8dBm to 15dBm:  0ms (--%)
+       15dBm to 20dBm:  0ms (--%)
+       above 20dBm:  0ms (--%)
+  Wifi Statistics:
+     Wifi kernel active time: 0ms (--%)
+     Wifi data received: 0B
+     Wifi data sent: 0B
+     Wifi packets received: 0
+     Wifi packets sent: 0
+     Wifi states: (no activity)
+     Wifi supplicant states: (no activity)
+     Wifi Rx signal strength (RSSI): (no activity)
+     WiFi Scan time:  0ms (--%)
+     WiFi Sleep time:  0ms (--%)
+     WiFi Idle time:   0ms (--%)
+     WiFi Rx time:     0ms (--%)
+     WiFi Tx time:     0ms (--%)
+  GPS Statistics:
+     GPS signal quality (Top 4 Average CN0):
+      poor (less than 20 dBHz): 0ms (--%) 
+      good (greater than 20 dBHz): 0ms (--%) 
+  CONNECTIVITY POWER SUMMARY END
+
+  Bluetooth total received: 0B, sent: 0B
+  Bluetooth scan time: 0ms 
+     Bluetooth Idle time:   0ms (--%)
+     Bluetooth Rx time:     0ms (--%)
+     Bluetooth Tx time:     0ms (--%)
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+    Amount discharged while screen doze: 0
+
+  Resource Power Manager Stats
+
+  1000:
+    Wake lock *dexopt* realtime
+    Wake lock WiredAccessoryManager realtime
+    Wake lock *alarm* realtime
+    Wake lock AudioMix realtime
+    Wake lock *launch* realtime
+    Wake lock NetworkStats realtime
+    Wake lock *backup* realtime
+    Wake lock *telephony-radio* realtime
+    Wake lock NtpTimeHelper realtime
+    Wake lock *location* realtime
+    Wake lock WindowManager realtime
+    Wake lock GnssLocationProvider realtime
+    Wake lock NetworkTimeUpdateService realtime
+    Wake lock *job*/android/com.android.server.pm.BackgroundDexOptService realtime
+    Wake lock SyncLoopWakeLock realtime
+    Wake lock *job*/android/com.android.server.backup.KeyValueBackupJob realtime
+    Job android/com.android.server.backup.KeyValueBackupJob: (not used)
+    Job android/com.android.server.pm.BackgroundDexOptService: (not used)
+    Sensor 0: (not used)
+    Apk com.android.location.fused:
+      (nothing executed)
+    Apk com.android.keychain:
+      (nothing executed)
+    Apk com.android.server.telecom:
+      Service com.android.server.telecom.components.TelecomService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+    Apk com.android.providers.settings:
+      (nothing executed)
+    Apk android:
+      Service android.hardware.location.GeofenceHardwareService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.server.content.SyncJobService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+  1001:
+    Wake lock *dexopt* realtime
+    Wake lock *alarm* realtime
+    Wake lock CallerInfoCache realtime
+    Wake lock CdmaInboundSmsHandler realtime
+    Wake lock *telephony-radio* realtime
+    Wake lock GsmCellBroadcastHandler realtime
+    Wake lock NitzStateMachine realtime
+    Wake lock CdmaServiceCategoryProgramHandler realtime
+    Wake lock ProxyController realtime
+    Wake lock GsmInboundSmsHandler realtime
+    Wake lock CellBroadcastHandler realtime
+    Apk com.android.phone:
+      Service com.android.internal.telephony.CellularNetworkService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.phone.TelephonyDebugService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.android.phone.vvm.RemoteVvmTaskManager:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.android.internal.telephony.dataconnection.CellularDataService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  1002:
+    Wake lock *dexopt* realtime
+  1010:
+    (nothing executed)
+  1027:
+    Wake lock *dexopt* realtime
+    Wake lock Icing realtime
+  1041:
+    Wake lock AudioMix realtime
+    Wake lock AudioIn realtime
+  1051:
+    (nothing executed)
+  1068:
+    Wake lock *dexopt* realtime
+    Apk com.android.se:
+      Service com.android.se.SecureElementService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+  2000:
+    Wake lock *dexopt* realtime
+  u0a5:
+    Wake lock *dexopt* realtime
+    Wake lock *launch* realtime
+  u0a6:
+    Wake lock MediaScannerService realtime
+    Wake lock *dexopt* realtime
+    Wake lock *alarm* realtime
+    Apk com.android.providers.downloads:
+      (nothing executed)
+    Apk com.android.providers.media:
+      (nothing executed)
+  u0a7:
+    Wake lock *dexopt* realtime
+  u0a8:
+    Wake lock *dexopt* realtime
+    Wake lock NlpWakeLock realtime
+    Wake lock *alarm* realtime
+    Wake lock *launch* realtime
+    Wake lock NlpCollectorWakeLock realtime
+    Apk com.google.android.apps.nexuslauncher:
+      Service com.android.quickstep.TouchInteractionService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a9:
+    Wake lock *dexopt* realtime
+    Wake lock *backup* realtime
+    Apk com.android.documentsui:
+      (nothing executed)
+  u0a10:
+    Wake lock *dexopt* realtime
+    Wake lock *alarm* realtime
+    Wake lock CalendarReceiver_Provider realtime
+  u0a11:
+    Wake lock *dexopt* realtime
+  u0a12:
+    Wake lock *dexopt* realtime
+  u0a13:
+    Wake lock *dexopt* realtime
+  u0a14:
+    Wake lock *dexopt* realtime
+    Wake lock *alarm* realtime
+    Wake lock *job*/DownloadManager:com.android.providers.downloads realtime
+    Wake lock *job*/com.google.android.configupdater/.MainJobService realtime
+    Job DownloadManager:com.android.providers.downloads: (not used)
+    Job com.google.android.configupdater/.MainJobService: (not used)
+    Apk com.google.android.configupdater:
+      (nothing executed)
+  u0a15:
+    Wake lock *job*/subscribedfeeds/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock *net_scheduler* realtime
+    Wake lock IntentOp:com.google.android.gms/.chimera.PersistentIntentOperationService realtime
+    Wake lock *sync*/com.google.android.gms.photos.iu.EsGoogleIuProvider/com.google/evanescentblade777@gmail.com realtime
+    Wake lock wake:com.google.android.gms/.checkin.CheckinService realtime
+    Wake lock wake:com.google.android.gms/com.google.android.libraries.social.mediamonitor.MediaMonitorIntentService realtime
+    Wake lock IntentOp:.auth.frp.FrpUpdateIntentOperation realtime
+    Wake lock IntentOp:.mdm.receivers.GmsRegisteredChimeraReceiver realtime
+    Wake lock GOOGLE_C2DM realtime
+    Wake lock *job*/com.google.android.gms.fitness/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock GCoreFlp realtime
+    Wake lock IntentOp:com.google.android.gms/.chimera.GmsIntentOperationService realtime
+    Wake lock *dexopt* realtime
+    Wake lock *job*/com.google.android.gms.auth.api.credentials/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock NlpWakeLock realtime
+    Wake lock *job*/com.google.android.gms.people/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock IntentOp:.udc.intentoperation.UdcContextListenerIntentOperation realtime
+    Wake lock *alarm* realtime
+    Wake lock *sync*/com.google.android.gms.auth.confirm/com.google/evanescentblade777@gmail.com realtime
+    Wake lock CryptauthEnroller realtime
+    Wake lock Checkin Service realtime
+    Wake lock *job*/com.google.android.gms.appstate/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock CmaSystemUpdateService realtime
+    Wake lock Wakeful StateMachine: GeofencerStateMachine realtime
+    Wake lock *sync*/com.google.android.gms.subscribedfeeds/com.google/evanescentblade777@gmail.com realtime
+    Wake lock wake:com.google.android.gms/.auth.account.be.accountstate.LoginAccountsChangedIntentService realtime
+    Wake lock *sync*/com.google.android.gms.auth.accountstate/com.google/evanescentblade777@gmail.com realtime
+    Wake lock IntentOp:.auth.authzen.cryptauth.AccountChangeProcessingIntentOperation realtime
+    Wake lock IntentOp:.reminders.notification.ScheduleTimeRemindersIntentOperation realtime
+    Wake lock *job*/com.google.android.gms.photos.iu.EsGoogleIuProvider/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock GCM_READ realtime
+    Wake lock messaging_service_work_wakelock realtime
+    Wake lock DataLayerTaskExecutor realtime
+    Wake lock GCMSEND realtime
+    Wake lock GCM_HB_ALARM realtime
+    Wake lock wake:com.google.android.gms/com.google.android.libraries.social.account.refresh.receiver.AccountsChangedService realtime
+    Wake lock *sync*/com.google.android.gms.games.background/com.google/evanescentblade777@gmail.com realtime
+    Wake lock *launch* realtime
+    Wake lock NlpCollectorWakeLock realtime
+    Wake lock Icing realtime
+    Wake lock DG:service realtime
+    Wake lock Mdh realtime
+    Wake lock *telephony-radio* realtime
+    Wake lock IntentOp:.nearby.messages.GcmRegistrationChimeraReceiver realtime
+    Wake lock *sync*/com.google.android.gms.auth.api.credentials/com.google/evanescentblade777@gmail.com realtime
+    Wake lock *sync*/com.google.android.gms.fitness/com.google/evanescentblade777@gmail.com realtime
+    Wake lock *sync*/com.google.android.gms.drive.sync/com.google/evanescentblade777@gmail.com realtime
+    Wake lock wake:CollectionChimeraSvc realtime
+    Wake lock *job*/DownloadManager:com.android.providers.downloads realtime
+    Wake lock *job*/com.google.android.location.reporting/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock IntentOp:.udc.intentoperation.UdcSystemAccountsChangedIntentOperation realtime
+    Wake lock *sync*/com.google.android.location.reporting/com.google/evanescentblade777@gmail.com realtime
+    Wake lock *sync*/com.google.android.gms.games/com.google/evanescentblade777@gmail.com realtime
+    Wake lock *sync*/com.google.android.gms.appstate/com.google/evanescentblade777@gmail.com realtime
+    Wake lock *location* realtime
+    Wake lock *sync*/com.google.android.gms.people/com.google/evanescentblade777@gmail.com realtime
+    Wake lock IntentOp:.lockbox.LockboxAccountsChangedChimeraReceiver realtime
+    Wake lock *sync*/com.google.android.gms.chromesync/com.google/evanescentblade777@gmail.com realtime
+    Wake lock *job*/com.google.android.gms.reminders/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock GmsDownloadIntentOp realtime
+    Wake lock *job*/com.google.android.location.reporting/com.google/@@ContextManagerNullAccount@@:android realtime
+    Wake lock GCM_CONN_ALARM realtime
+    Wake lock IntentOp:.reminders.notification.RefreshNotificationsIntentOperation realtime
+    Wake lock *sync*/subscribedfeeds/com.google/evanescentblade777@gmail.com realtime
+    Wake lock IntentOp:.chimera.container.zapp.ZappV2Downloader$DownloadCompleteOperation realtime
+    Wake lock UlrDispSvcSlowWL realtime
+    Wake lock *job*/com.google.android.gms.subscribedfeeds/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock *job*/com.google.android.gms.auth.confirm/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock CMWakeLock realtime
+    Wake lock *sync*/com.google.android.gms.reminders/com.google/evanescentblade777@gmail.com realtime
+    Wake lock *job*/com.google.android.gms.chromesync/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock *job*/com.google.android.gms.auth.accountstate/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock UlrDispSvcFastWL realtime
+    Wake lock *job*/com.google.android.gms.games/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock *job*/com.google.android.gms.drive.sync/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock *job*/com.google.android.gms.games.background/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock IntentOp:.reminders.notification.ScheduleLocationRemindersIntentOperation realtime
+    Sync com.google.android.gms.games.background/com.google/evanescentblade777@gmail.com: (not used)
+    Sync com.google.android.gms.auth.accountstate/com.google/evanescentblade777@gmail.com: (not used)
+    Sync com.google.android.gms.fitness/com.google/evanescentblade777@gmail.com: (not used)
+    Sync com.google.android.gms.drive.sync/com.google/evanescentblade777@gmail.com: (not used)
+    Sync com.google.android.gms.chromesync/com.google/evanescentblade777@gmail.com: (not used)
+    Sync com.google.android.gms.appstate/com.google/evanescentblade777@gmail.com: (not used)
+    Sync com.google.android.gms.photos.iu.EsGoogleIuProvider/com.google/evanescentblade777@gmail.com: (not used)
+    Sync com.google.android.gms.subscribedfeeds/com.google/evanescentblade777@gmail.com: (not used)
+    Sync com.google.android.gms.auth.confirm/com.google/evanescentblade777@gmail.com: (not used)
+    Sync com.google.android.gms.games/com.google/evanescentblade777@gmail.com: (not used)
+    Sync com.google.android.gms.auth.api.credentials/com.google/evanescentblade777@gmail.com: (not used)
+    Sync subscribedfeeds/com.google/evanescentblade777@gmail.com: (not used)
+    Sync com.google.android.location.reporting/com.google/evanescentblade777@gmail.com: (not used)
+    Sync com.google.android.gms.people/com.google/evanescentblade777@gmail.com: (not used)
+    Sync com.google.android.gms.reminders/com.google/evanescentblade777@gmail.com: (not used)
+    Job com.google.android.gms.people/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job DownloadManager:com.android.providers.downloads: (not used)
+    Job com.google.android.gms.fitness/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job com.google.android.gms.chromesync/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job com.google.android.gms.appstate/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job subscribedfeeds/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job com.google.android.gms.drive.sync/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job com.google.android.gms.auth.api.credentials/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job com.google.android.gms.photos.iu.EsGoogleIuProvider/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job com.google.android.gms.reminders/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job com.google.android.gms.auth.accountstate/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job com.google.android.location.reporting/com.google/@@ContextManagerNullAccount@@:android: (not used)
+    Job com.google.android.gms.subscribedfeeds/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job com.google.android.gms.games/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job com.google.android.gms.auth.confirm/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job com.google.android.gms.games.background/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job com.google.android.location.reporting/com.google/evanescentblade777@gmail.com:android: (not used)
+    Sensor 0: (not used)
+    Apk com.google.android.backuptransport:
+      Service com.google.android.backup.BackupEnabler:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+    Apk com.google.android.gms:
+      Service com.google.android.location.internal.server.HardwareArProviderService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.google.android.gms.common.stats.GmsCoreStatsService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.google.android.location.internal.GoogleLocationManagerService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.google.android.location.network.NetworkLocationService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.google.android.contextmanager.service.ContextManagerService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.google.android.location.internal.server.GoogleLocationService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.google.android.location.internal.PendingIntentCallbackService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.google.android.gms.chimera.PersistentDirectBootAwareApiService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.google.android.location.geofencer.service.GeofenceProviderService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.google.android.location.fused.FusedLocationService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.google.android.gms.beacon.BleService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.google.android.gms.pseudonymous.service.PseudonymousIdService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.google.android.gms.chimera.PersistentBoundBrokerService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.google.android.gms.auth.proximity.firstparty.SystemMemoryCacheService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.google.android.gms.gcm.GcmService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.google.android.gms.auth.setup.devicesignals.LockScreenService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.google.android.gms.thunderbird.OutgoingSmsListenerService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.google.android.location.geocode.GeocodeService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.google.android.location.places.service.PlaceDetectionAsyncService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.google.android.gms.deviceconnection.service.DeviceConnectionWatcherService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+    Apk com.android.chrome:
+      Service org.chromium.content.app.SandboxedProcessService8:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a16:
+    Wake lock *dexopt* realtime
+    Wake lock *backup* realtime
+    Apk com.android.cellbroadcastreceiver:
+      (nothing executed)
+  u0a17:
+    Wake lock *dexopt* realtime
+    Wake lock *job*/com.google.android.setupwizard/.predeferred.PreDeferredServiceScheduler realtime
+    Wake lock *job*/com.google.android.setupwizard/.predeferred.PreDeferredLifecycleScheduler realtime
+    Wake lock *launch* realtime
+    Job com.google.android.setupwizard/.predeferred.PreDeferredServiceScheduler: (not used)
+    Job com.google.android.setupwizard/.predeferred.PreDeferredLifecycleScheduler: (not used)
+    Apk com.google.android.setupwizard:
+      Service com.google.android.setupwizard.predeferred.PreDeferredUpdateService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+      Service com.google.android.setupwizard.logging.ScreenOnClock:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a18:
+    Wake lock *dexopt* realtime
+    Wake lock *backup* realtime
+    Apk com.android.providers.userdictionary:
+      (nothing executed)
+    Apk com.android.providers.blockednumber:
+      (nothing executed)
+    Apk com.android.calllogbackup:
+      (nothing executed)
+  u0a19:
+    Wake lock *dexopt* realtime
+    Wake lock fiid-sync realtime
+    Apk com.google.android.apps.restore:
+      (nothing executed)
+  u0a20:
+    Wake lock *dexopt* realtime
+    Wake lock *alarm* realtime
+    Wake lock *backup* realtime
+    Wake lock DailyLoggingAlarm realtime
+    Apk com.google.android.apps.wallpaper:
+      (nothing executed)
+  u0a21:
+    Wake lock *dexopt* realtime
+    Wake lock NlpWakeLock realtime
+    Wake lock *alarm* realtime
+    Wake lock RequestScheduleEvaluatorService realtime
+    Wake lock *job*/com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService realtime
+    Wake lock *launch* realtime
+    Wake lock NlpCollectorWakeLock realtime
+    Wake lock Icing realtime
+    Wake lock EntriesRefresh_wakelock realtime
+    Wake lock *backup* realtime
+    Wake lock *telephony-radio* realtime
+    Wake lock *job*/DownloadManager:com.android.providers.downloads realtime
+    Wake lock *location* realtime
+    Wake lock WindowManager realtime
+    Wake lock CMWakeLock realtime
+    Job DownloadManager:com.android.providers.downloads: (not used)
+    Job com.google.android.googlequicksearchbox/com.google.android.apps.gsa.tasks.BackgroundTasksJobService: (not used)
+    Sensor GPS: (not used)
+    Sensor 1600610674: (not used)
+    Apk com.android.chrome:
+      (nothing executed)
+    Apk com.google.android.googlequicksearchbox:
+      Service com.google.android.ssb.service.SsbService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.google.android.apps.gsa.nowoverlayservice.DrawerOverlayService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.google.android.apps.gsa.sidekick.main.remoteservice.NowService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.google.android.voiceinteraction.GsaVoiceInteractionService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.google.android.apps.gsa.search.core.service.SearchService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a22:
+    Wake lock *dexopt* realtime
+  u0a23:
+    Wake lock *dexopt* realtime
+  u0a24:
+    Wake lock *job*/com.google.android.dialer/com.google.android.apps.dialer.spam.inapp.SpamJobService realtime
+    Wake lock *dexopt* realtime
+    Wake lock *job*/com.google.android.dialer/com.android.voicemail.impl.StatusCheckJobService realtime
+    Wake lock *alarm* realtime
+    Wake lock *job*/com.google.android.dialer/com.android.voicemail.impl.scheduling.TaskSchedulerJobService realtime
+    Wake lock *launch* realtime
+    Wake lock *backup* realtime
+    Job com.google.android.dialer/com.google.android.apps.dialer.spam.inapp.SpamJobService: (not used)
+    Job com.google.android.dialer/com.android.voicemail.impl.scheduling.TaskSchedulerJobService: (not used)
+    Job com.google.android.dialer/com.android.voicemail.impl.StatusCheckJobService: (not used)
+    Apk com.google.android.dialer:
+      (nothing executed)
+  u0a25:
+    Wake lock *job*/com.google.android.partnersetup/.InstalledAppJobService realtime
+    Wake lock *dexopt* realtime
+    Wake lock *alarm* realtime
+    Wake lock *job*/com.google.android.partnersetup/.RlzPingJobService realtime
+    Job com.google.android.partnersetup/.RlzPingJobService: (not used)
+    Job com.google.android.partnersetup/.InstalledAppJobService: (not used)
+    Apk com.google.android.partnersetup:
+      (nothing executed)
+  u0a26:
+    Wake lock *dexopt* realtime
+    Apk com.android.carrierconfig:
+      (nothing executed)
+  u0a27:
+    Wake lock *dexopt* realtime
+    Wake lock *launch* realtime
+  u0a28:
+    Wake lock *dexopt* realtime
+  u0a29:
+    Wake lock *dexopt* realtime
+    Apk com.android.defcontainer:
+      (nothing executed)
+  u0a30:
+    Wake lock *dexopt* realtime
+    Apk com.google.android.ext.services:
+      Service android.ext.services.notification.Assistant:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a31:
+    Wake lock *dexopt* realtime
+  u0a33:
+    Wake lock *dexopt* realtime
+  u0a34:
+    Wake lock *dexopt* realtime
+    Wake lock *launch* realtime
+    Apk com.android.settings.intelligence:
+      (nothing executed)
+  u0a35:
+    Wake lock *dexopt* realtime
+  u0a36:
+    Wake lock *dexopt* realtime
+  u0a37:
+    Wake lock *dexopt* realtime
+  u0a38:
+    Wake lock *dexopt* realtime
+  u0a39:
+    Wake lock RingtonePlayer realtime
+    Wake lock *dexopt* realtime
+    Wake lock *alarm* realtime
+    Wake lock AudioMix realtime
+    Wake lock AmbientIndication realtime
+    Apk com.android.systemui:
+      Service com.android.systemui.ImageWallpaper:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.systemui.keyguard.KeyguardService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.systemui.SystemUIService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+  u0a40:
+    Wake lock *dexopt* realtime
+  u0a41:
+    Wake lock *dexopt* realtime
+  u0a42:
+    Wake lock *dexopt* realtime
+  u0a43:
+    Wake lock *dexopt* realtime
+  u0a44:
+    Wake lock *net_scheduler* realtime
+    Wake lock *dexopt* realtime
+    Wake lock Icing realtime
+    Wake lock *backup* realtime
+    Wake lock *job*/DownloadManager:com.android.providers.downloads realtime
+    Job DownloadManager:com.android.providers.downloads: (not used)
+    Apk com.google.android.inputmethod.latin:
+      Service com.android.inputmethod.latin.LatinIME:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a45:
+    Wake lock bugle_datamodel_executor_wakelock realtime
+    Wake lock *dexopt* realtime
+    Wake lock *alarm* realtime
+    Wake lock androidx.core:wake:com.google.android.apps.messaging/.fcm.BugleFirebaseInstanceIDService realtime
+    Wake lock *launch* realtime
+    Wake lock *job*/com.google.android.apps.messaging/.shared.datamodel.action.ActionJobService realtime
+    Wake lock Icing realtime
+    Wake lock *backup* realtime
+    Job com.google.android.apps.messaging/.shared.datamodel.action.ActionJobService: (not used)
+    Apk com.google.android.apps.messaging:
+      (nothing executed)
+  u0a46:
+    Wake lock *dexopt* realtime
+    Apk com.android.smspush:
+      Service com.android.smspush.WapPushManager:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a47:
+    Wake lock *dexopt* realtime
+  u0a48:
+    Wake lock *net_scheduler* realtime
+    Wake lock GOOGLE_C2DM realtime
+    Wake lock *job*/com.android.chrome/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock *dexopt* realtime
+    Wake lock *alarm* realtime
+    Wake lock *launch* realtime
+    Wake lock Icing realtime
+    Wake lock *backup* realtime
+    Wake lock *job*/com.android.chrome/org.chromium.components.background_task_scheduler.BackgroundTaskJobService realtime
+    Wake lock *sync*/com.android.chrome/com.google/evanescentblade777@gmail.com realtime
+    Sync com.android.chrome/com.google/evanescentblade777@gmail.com: (not used)
+    Job com.android.chrome/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job com.android.chrome/org.chromium.components.background_task_scheduler.BackgroundTaskJobService: (not used)
+    Apk com.android.chrome:
+      Service org.chromium.content.app.PrivilegedProcessService2:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service org.chromium.content.app.SandboxedProcessService4:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a49:
+    Wake lock *dexopt* realtime
+  u0a50:
+    Wake lock *dexopt* realtime
+    Apk com.android.printspooler:
+      (nothing executed)
+  u0a51:
+    Wake lock *net_scheduler* realtime
+    Wake lock *dexopt* realtime
+    Wake lock *alarm* realtime
+    Wake lock Icing realtime
+    Wake lock *backup* realtime
+    Wake lock *job*/com.google.android.apps.maps/com.google.android.apps.gmm.offline.update.OfflineAutoUpdateJobService realtime
+    Job com.google.android.apps.maps/com.google.android.apps.gmm.offline.update.OfflineAutoUpdateJobService: (not used)
+    Apk com.google.android.apps.maps:
+      (nothing executed)
+  u0a52:
+    Wake lock *dexopt* realtime
+  u0a53:
+    Wake lock *dexopt* realtime
+  u0a54:
+    Wake lock *sync*/gmail-ls/com.google/evanescentblade777@gmail.com realtime
+    Wake lock *dexopt* realtime
+    Wake lock *job*/com.google.android.gm/com.android.email.job.BootCompletedJob$BootCompletedJobService realtime
+    Wake lock *job*/com.google.android.gm/.job.BackupDataChangedJob$BackupDataChangedJobService realtime
+    Wake lock *alarm* realtime
+    Wake lock *job*/com.google.android.gm/.job.ResendNotificationsJob$ResendNotificationsJobService realtime
+    Wake lock *job*/com.google.android.gm/.job.GoogleMailWidgetAndShortcutSwitchJob$GoogleMailWidgetAndShortcutSwitchJobService realtime
+    Wake lock *launch* realtime
+    Wake lock Icing realtime
+    Wake lock *backup* realtime
+    Wake lock MetadataSyncChimeraServ realtime
+    Wake lock *job*/com.google.android.gm/.job.AccountRemovedJob$AccountRemovedJobService realtime
+    Wake lock *job*/com.google.android.gm/.job.GmailifyUpdateAvailabilityJob$GmailifyUpdateAvailabilityJobService realtime
+    Wake lock *job*/com.google.android.gm/.job.LoginAccountsChangedJob$LoginAccountsChangedJobService realtime
+    Wake lock *job*/com.google.android.gm/.job.ProviderCreatedJob$ProviderCreatedJobService realtime
+    Wake lock *job*/com.google.android.gm/.job.GmailInitialSetupJob$GmailInitialSetupJobService realtime
+    Wake lock *job*/com.google.android.gm/com.android.email.job.LoginAccountsChangedJob$LoginAccountsChangedJobService realtime
+    Wake lock *job*/com.google.android.gm/com.android.email.job.UpgradeJob$UpgradeJobService realtime
+    Wake lock *job*/gmail-ls/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock *job*/com.google.android.gm/com.android.mail.job.NotifyDatasetChangedJob$NotifyDatasetChangedJobService realtime
+    Sync gmail-ls/com.google/evanescentblade777@gmail.com: (not used)
+    Job com.google.android.gm/.job.GoogleMailWidgetAndShortcutSwitchJob$GoogleMailWidgetAndShortcutSwitchJobService: (not used)
+    Job com.google.android.gm/.job.ProviderCreatedJob$ProviderCreatedJobService: (not used)
+    Job com.google.android.gm/.job.ResendNotificationsJob$ResendNotificationsJobService: (not used)
+    Job com.google.android.gm/.job.GmailInitialSetupJob$GmailInitialSetupJobService: (not used)
+    Job com.google.android.gm/com.android.email.job.LoginAccountsChangedJob$LoginAccountsChangedJobService: (not used)
+    Job gmail-ls/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job com.google.android.gm/.job.GmailifyUpdateAvailabilityJob$GmailifyUpdateAvailabilityJobService: (not used)
+    Job com.google.android.gm/com.android.email.job.UpgradeJob$UpgradeJobService: (not used)
+    Job com.google.android.gm/.job.BackupDataChangedJob$BackupDataChangedJobService: (not used)
+    Job com.google.android.gm/com.android.mail.job.NotifyDatasetChangedJob$NotifyDatasetChangedJobService: (not used)
+    Job com.google.android.gm/.job.AccountRemovedJob$AccountRemovedJobService: (not used)
+    Job com.google.android.gm/com.android.email.job.BootCompletedJob$BootCompletedJobService: (not used)
+    Job com.google.android.gm/.job.LoginAccountsChangedJob$LoginAccountsChangedJobService: (not used)
+    Sensor 0: (not used)
+    Apk com.android.chrome:
+      (nothing executed)
+    Apk com.google.android.gm:
+      (nothing executed)
+  u0a55:
+    Wake lock *dexopt* realtime
+  u0a56:
+    Wake lock *dexopt* realtime
+    Wake lock Icing realtime
+    Wake lock *backup* realtime
+    Wake lock *job*/com.google.android.apps.docs/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock SyncManagerImpl realtime
+    Wake lock *sync*/com.google.android.apps.docs/com.google/evanescentblade777@gmail.com realtime
+    Sync com.google.android.apps.docs/com.google/evanescentblade777@gmail.com: (not used)
+    Job com.google.android.apps.docs/com.google/evanescentblade777@gmail.com:android: (not used)
+    Apk com.google.android.apps.docs:
+      (nothing executed)
+  u0a57:
+    Wake lock *dexopt* realtime
+    Wake lock *alarm* realtime
+    Wake lock *sync*/com.android.contacts/com.google/evanescentblade777@gmail.com realtime
+    Wake lock *job*/com.android.contacts/com.google/evanescentblade777@gmail.com:android realtime
+    Sync com.android.contacts/com.google/evanescentblade777@gmail.com: (not used)
+    Job com.android.contacts/com.google/evanescentblade777@gmail.com:android: (not used)
+    Apk com.google.android.syncadapters.contacts:
+      (nothing executed)
+  u0a58:
+    Wake lock *dexopt* realtime
+  u0a59:
+    Wake lock *net_scheduler* realtime
+    Wake lock *dexopt* realtime
+    Wake lock *sync*/com.google.android.music.MusicContent/com.google/evanescentblade777@gmail.com realtime
+    Wake lock Icing realtime
+    Wake lock *backup* realtime
+    Wake lock CMWakeLock realtime
+    Wake lock *job*/com.google.android.music.MusicContent/com.google/evanescentblade777@gmail.com:android realtime
+    Sync com.google.android.music.MusicContent/com.google/evanescentblade777@gmail.com: (not used)
+    Job com.google.android.music.MusicContent/com.google/evanescentblade777@gmail.com:android: (not used)
+    Apk com.google.android.music:
+      (nothing executed)
+  u0a60:
+    Wake lock *dexopt* realtime
+  u0a61:
+    Wake lock *dexopt* realtime
+    Wake lock AlarmAsyncTask realtime
+    Wake lock *backup* realtime
+    Apk com.google.android.deskclock:
+      (nothing executed)
+  u0a62:
+    Wake lock *dexopt* realtime
+  u0a63:
+    Wake lock *dexopt* realtime
+  u0a64:
+    Wake lock *dexopt* realtime
+  u0a65:
+    Wake lock *dexopt* realtime
+  u0a66:
+    Wake lock *dexopt* realtime
+  u0a67:
+    Wake lock *dexopt* realtime
+  u0a69:
+    Wake lock *dexopt* realtime
+  u0a70:
+    Wake lock *dexopt* realtime
+  u0a71:
+    Wake lock *dexopt* realtime
+    Wake lock Icing realtime
+  u0a72:
+    Wake lock *dexopt* realtime
+  u0a73:
+    Wake lock *dexopt* realtime
+  u0a74:
+    Wake lock *dexopt* realtime
+  u0a75:
+    Wake lock *dexopt* realtime
+  u0a76:
+    Wake lock *dexopt* realtime
+  u0a77:
+    Wake lock BackgroundTaskService-enable_intents realtime
+    Wake lock *dexopt* realtime
+    Wake lock *alarm* realtime
+    Wake lock *job*/com.google.android.apps.photos/com.google.android.libraries.social.async.BackgroundTaskJobService realtime
+    Wake lock *job*/com.google.android.apps.photos/.actionqueue.OnlineActionJobsService realtime
+    Wake lock *job*/com.google.android.apps.photos/.registration.ReachabilityJobService realtime
+    Wake lock *job*/com.google.android.apps.photos/com.google.android.libraries.social.notifications.scheduled.GunsScheduledTaskService realtime
+    Wake lock BackgroundTaskService-SyncAcctsForLoginTask realtime
+    Wake lock *backup* realtime
+    Wake lock *job*/com.google.android.apps.photos/.jobqueue.PhotosJobQueueJobsService realtime
+    Wake lock *job*/com.google.android.apps.photos/.dbprocessor.impl.DatabaseProcessorJobService realtime
+    Wake lock *job*/com.google.android.apps.photos/.account.full.SyncAccountsForLoginService realtime
+    Wake lock *job*/com.google.android.apps.photos/com.google.android.libraries.social.mediamonitor.MediaMonitorJobSchedulerService realtime
+    Wake lock BackgroundTaskService-FetchAccountPropsTask realtime
+    Wake lock *job*/com.google.android.apps.photos/.jobqueue.PhotosOfflineJobQueueJobsService realtime
+    Job com.google.android.apps.photos/.jobqueue.PhotosJobQueueJobsService: (not used)
+    Job com.google.android.apps.photos/com.google.android.libraries.social.async.BackgroundTaskJobService: (not used)
+    Job com.google.android.apps.photos/.account.full.SyncAccountsForLoginService: (not used)
+    Job com.google.android.apps.photos/.jobqueue.PhotosOfflineJobQueueJobsService: (not used)
+    Job com.google.android.apps.photos/.dbprocessor.impl.DatabaseProcessorJobService: (not used)
+    Job com.google.android.apps.photos/.actionqueue.OnlineActionJobsService: (not used)
+    Job com.google.android.apps.photos/com.google.android.libraries.social.mediamonitor.MediaMonitorJobSchedulerService: (not used)
+    Job com.google.android.apps.photos/.registration.ReachabilityJobService: (not used)
+    Job com.google.android.apps.photos/com.google.android.libraries.social.notifications.scheduled.GunsScheduledTaskService: (not used)
+    Apk com.google.android.apps.photos:
+      (nothing executed)
+  u0a78:
+    Wake lock *dexopt* realtime
+  u0a79:
+    Wake lock *dexopt* realtime
+    Wake lock *alarm* realtime
+    Wake lock *job*/com.google.android.calendar/com.google.android.apps.calendar.config.phenotypesupport.PhenotypeCommitJobService realtime
+    Wake lock *job*/com.google.android.calendar/.jobservices.CalendarProviderObserverJobService realtime
+    Wake lock *job*/com.google.android.calendar/.timely.settings.PreferredNotificationDeleterJobService realtime
+    Wake lock *job*/com.android.calendar/com.google/evanescentblade777@gmail.com:android realtime
+    Wake lock *launch* realtime
+    Wake lock *sync*/com.android.calendar/com.google/evanescentblade777@gmail.com realtime
+    Wake lock *backup* realtime
+    Wake lock *job*/com.google.android.calendar/.alerts.InitAlarmsJobService realtime
+    Sync com.android.calendar/com.google/evanescentblade777@gmail.com: (not used)
+    Job com.google.android.calendar/.timely.settings.PreferredNotificationDeleterJobService: (not used)
+    Job com.android.calendar/com.google/evanescentblade777@gmail.com:android: (not used)
+    Job com.google.android.calendar/.alerts.InitAlarmsJobService: (not used)
+    Job com.google.android.calendar/com.google.android.apps.calendar.config.phenotypesupport.PhenotypeCommitJobService: (not used)
+    Job com.google.android.calendar/.jobservices.CalendarProviderObserverJobService: (not used)
+    Apk com.google.android.calendar:
+      (nothing executed)
+  u0a81:
+    Wake lock *dexopt* realtime
+  u0a82:
+    Wake lock *dexopt* realtime
+  u0a83:
+    Wake lock *net_scheduler* realtime
+    Wake lock *dexopt* realtime
+    Wake lock *sync*/com.google.android.videos.sync/com.google/evanescentblade777@gmail.com realtime
+    Wake lock Icing realtime
+    Wake lock *backup* realtime
+    Wake lock com.google.android.videos.service.drm.LicenseRefresher_tasks realtime
+    Wake lock *job*/com.google.android.videos.sync/com.google/evanescentblade777@gmail.com:android realtime
+    Sync com.google.android.videos.sync/com.google/evanescentblade777@gmail.com: (not used)
+    Job com.google.android.videos.sync/com.google/evanescentblade777@gmail.com:android: (not used)
+    Apk com.google.android.videos:
+      (nothing executed)
+  u0a84:
+    Wake lock *net_scheduler* realtime
+    Wake lock *dexopt* realtime
+    Wake lock fiid-sync realtime
+    Wake lock Icing realtime
+    Wake lock *backup* realtime
+    Apk com.google.android.youtube:
+      (nothing executed)
+  u0a85:
+    Wake lock *launch* realtime
+    Wake lock Icing realtime
+  u0a86:
+    Wake lock *launch* realtime
+    Wake lock Icing realtime
+
+Total cpu time reads: 1
+Batched cpu time reads: 0
+Batching Duration (min): 2689
+All UID cpu time reads since the later of device start or stats reset: 1988
+UIDs removed since the later of device start or stats reset: 195

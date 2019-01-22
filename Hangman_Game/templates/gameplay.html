@@ -1,0 +1,74 @@
+<html>
+    <head>
+        <title>Hangman Game</title>
+    </head>
+    <body>
+        <h1>Hangman Game</h1>
+        <h1 id="hangman_word">{{ num_characters }}</h1>
+        <form action="/gameplay" method="POST">
+        	<input id="A" type="radio" name="letter" value="A"> A
+			<input id="B" type="radio" name="letter" value="B"> B
+			<input id="C" type="radio" name="letter" value="C"> C
+            <input id="D" type="radio" name="letter" value="D"> D
+            <input id="E" type="radio" name="letter" value="E"> E
+            <input id="F" type="radio" name="letter" value="F"> F
+            <input id="G" type="radio" name="letter" value="G"> G
+            <input id="H" type="radio" name="letter" value="H"> H
+            <input id="I" type="radio" name="letter" value="I"> I
+            <input id="J" type="radio" name="letter" value="J"> J <br>
+            <input id="K" type="radio" name="letter" value="K"> K
+            <input id="L" type="radio" name="letter" value="L"> L
+            <input id="M" type="radio" name="letter" value="M"> M
+            <input id="N" type="radio" name="letter" value="N"> N
+            <input id="O" type="radio" name="letter" value="O"> O
+            <input id="P" type="radio" name="letter" value="P"> P
+            <input id="Q" type="radio" name="letter" value="Q"> Q
+            <input id="R" type="radio" name="letter" value="R"> R
+            <input id="S" type="radio" name="letter" value="S"> S
+            <input id="T" type="radio" name="letter" value="T"> T <br>
+            <input id="U" type="radio" name="letter" value="U"> U
+            <input id="V" type="radio" name="letter" value="V"> V
+            <input id="W" type="radio" name="letter" value="W"> W
+            <input id="X" type="radio" name="letter" value="X"> X
+            <input id="Y" type="radio" name="letter" value="Y"> Y
+            <input id="Z" type="radio" name="letter" value="Z"> Z 
+            <input id="0" type="radio" name="dummy" value="0" checked> <br>
+			<input id="submit" type="submit">
+		</form>
+        <h1>Guesses Left: {{ guesses_left|tojson }}</h1>
+        <h1>Game Status: {{ game_status }}</h1>
+        <h1 id="answer">Answer: </h1>
+        <form action="/" method="POST">
+            <input type="submit" value="Start New Game">
+        </form>
+    </body>
+    <script>
+        var disabled_letters = {{ used_letters|tojson }};
+        for (var i = 0; i < disabled_letters.length; i++) {
+            document.getElementById(disabled_letters[i]).disabled = true;
+        }
+    </script>
+    <script>
+        var game_status = {{ game_status|tojson }};
+        if (game_status == "Lost Game :(" || game_status == "Won Game :)") {
+            var all_radio_buttons = document.getElementsByName("letter");
+            for (var i = 0; i < all_radio_buttons.length; i++) {
+                all_radio_buttons[i].disabled = true;
+            }
+            document.getElementById("submit").disabled = true;
+            document.getElementById("answer").innerHTML = "Answer: " + {{ answer|tojson }};
+        }
+    </script>
+</html>
+
+<style>
+input[type="radio"] {
+  margin-left: 10px;
+}
+input[type="radio"][disabled] {
+    opacity: 0;
+}
+input[id="0"] {
+    display: none;
+}
+</style>

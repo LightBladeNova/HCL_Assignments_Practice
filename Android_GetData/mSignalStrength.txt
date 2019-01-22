@@ -1,0 +1,1 @@
+    mSignalStrength=SignalStrength: 12 4 -90 -120 -80 -120 4 90 -100 -10 30 7 0 2147483647 99 255 2147483647 gsm|lte use_rsrp_and_rssnr_for_lte_level  [-128, -118, -108, -98] [-115, -105, -95, -85]
