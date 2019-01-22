@@ -3,14 +3,15 @@ import unittest
 from appium import webdriver
 from time import sleep
 from selenium.common.exceptions import NoSuchElementException
+
+# "Virtual Device: Pixel XL API 28, Android 9.0, x86"
+# "Requires Appium Server to be running"
+# "Place email as first line of IDpassword.txt, and password as second line"
  
 class GmailAndroidTests(unittest.TestCase):
     "Class to run tests against the Gmail Android app"
     def setUp(self):
         "Setup for the test"
-        "Virtual Device: Pixel XL API 28, Android 9.0, x86"
-        "Requires Appium Server to be running"
-        "Place email as first line of IDpassword.txt, and password as second line"
         desired_caps = {}
         desired_caps['platformName'] = "Android"
         desired_caps['platformVersion'] = "9"
@@ -149,7 +150,6 @@ class GmailAndroidTests(unittest.TestCase):
         except NoSuchElementException:
             print("Could not find element ID: " + element_id)
  
-#---START OF SCRIPT
 if __name__ == '__main__':
     suite = unittest.TestLoader().loadTestsFromTestCase(GmailAndroidTests)
     unittest.TextTestRunner(verbosity=2).run(suite)
