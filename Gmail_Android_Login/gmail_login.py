@@ -5,7 +5,7 @@ from time import sleep
 from selenium.common.exceptions import NoSuchElementException
 
 # "Virtual Device: Pixel XL API 28, Android 9.0, x86"
-# "Requires Appium Server to be running"
+# "Requires Appium Server and Android Emulator (Android Studio) to be running"
 # "Place email as first line of IDpassword.txt, and password as second line"
  
 class GmailAndroidTests(unittest.TestCase):
@@ -104,7 +104,8 @@ class GmailAndroidTests(unittest.TestCase):
 
         except NoSuchElementException:
             login_file.close()
-            raise Exception("NoSuchElementException: Could not find element ID: " + element_id)
+            print("NoSuchElementException: Could not find element ID: " + element_id)
+            raise NoSuchElementException("NoSuchElementException: Could not find element ID: " + element_id)
 
     def test_logout(self):
 
@@ -148,7 +149,8 @@ class GmailAndroidTests(unittest.TestCase):
             element.click()
 
         except NoSuchElementException:
-            raise Exception("NoSuchElementException: Could not find element ID: " + element_id)
+            print("NoSuchElementException: Could not find element ID: " + element_id)
+            raise NoSuchElementException("NoSuchElementException: Could not find element ID: " + element_id)
  
 if __name__ == '__main__':
     suite = unittest.TestLoader().loadTestsFromTestCase(GmailAndroidTests)
