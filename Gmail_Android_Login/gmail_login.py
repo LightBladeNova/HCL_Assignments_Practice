@@ -98,13 +98,13 @@ class GmailAndroidTests(unittest.TestCase):
             element_id = "com.google.android.gm:id/folder_textView"
             element = self.driver.find_element_by_id(element_id)
 
+            login_file.close()
+
             sleep(1)
 
         except NoSuchElementException:
-            print("Could not find element ID: " + element_id)
-
-        finally:
             login_file.close()
+            raise Exception("NoSuchElementException: Could not find element ID: " + element_id)
 
     def test_logout(self):
 
@@ -148,7 +148,7 @@ class GmailAndroidTests(unittest.TestCase):
             element.click()
 
         except NoSuchElementException:
-            print("Could not find element ID: " + element_id)
+            raise Exception("NoSuchElementException: Could not find element ID: " + element_id)
  
 if __name__ == '__main__':
     suite = unittest.TestLoader().loadTestsFromTestCase(GmailAndroidTests)
