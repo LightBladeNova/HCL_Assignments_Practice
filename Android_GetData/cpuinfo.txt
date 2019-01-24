@@ -1,21 +1,21 @@
-Load: 1.13 / 0.33 / 0.51
-CPU usage from 10266ms to 4327ms ago (2019-01-21 11:45:00.556 to 2019-01-21 11:45:06.495):
-  75% 1940/system_server: 47% user + 27% kernel / faults: 19955 minor
-  11% 22922/adbd: 0.6% user + 10% kernel / faults: 123468 minor
-  1.6% 1531/logd: 0.8% user + 0.8% kernel / faults: 12 minor
-  1.1% 29640/com.google.android.googlequicksearchbox:search: 1.1% user + 0% kernel / faults: 903 minor
-  0.5% 1605/android.hardware.sensors@1.0-service: 0% user + 0.5% kernel
+Load: 0.87 / 0.45 / 0.36
+CPU usage from 5967ms to 702ms ago (2019-01-24 11:27:05.644 to 2019-01-24 11:27:10.910):
+  73% 1856/system_server: 38% user + 35% kernel / faults: 13392 minor
+  11% 1602/adbd: 1.1% user + 10% kernel / faults: 94873 minor
+  1.8% 1518/logd: 1.3% user + 0.5% kernel / faults: 10 minor
+  1.1% 3275/com.google.android.googlequicksearchbox:search: 0.9% user + 0.1% kernel / faults: 744 minor
+  0.7% 1590/android.hardware.sensors@1.0-service: 0% user + 0.7% kernel
+  0.5% 1840/android.hardware.graphics.composer@2.1-service: 0% user + 0.5% kernel
   0.3% 793/hwrng: 0% user + 0.3% kernel
-  0.3% 1532/servicemanager: 0% user + 0.3% kernel
-  0.3% 1803/android.hardware.graphics.composer@2.1-service: 0.1% user + 0.1% kernel
-  0% 1600/android.hardware.health@2.0-service.goldfish: 0% user + 0% kernel
-  0% 1604/android.hardware.power@1.1-service.ranchu: 0% user + 0% kernel
-  0.1% 1606/android.hardware.wifi@1.0-service: 0% user + 0.1% kernel / faults: 392 minor
-  0% 1791/rild: 0% user + 0% kernel
-  0.1% 2289/com.android.phone: 0.1% user + 0% kernel / faults: 6 minor
-  0% 17847/android.hardware.audio@2.0-service: 0% user + 0% kernel / faults: 12 minor
-  0% 17848/audioserver: 0% user + 0% kernel / faults: 140 minor
-  0.1% 20667/kworker/u4:1: 0% user + 0.1% kernel
-  0.1% 26375/com.google.android.gms.persistent: 0.1% user + 0% kernel / faults: 20 minor
- +0% 22695/dumpsys: 0% user + 0% kernel
-51% TOTAL: 29% user + 22% kernel + 0.5% softirq
+  0.3% 1519/servicemanager: 0% user + 0.3% kernel
+  0.3% 1591/android.hardware.wifi@1.0-service: 0% user + 0.3% kernel / faults: 307 minor
+  0.3% 1594/audioserver: 0.3% user + 0% kernel / faults: 71 minor
+  0.3% 4362/kworker/u4:0: 0% user + 0.3% kernel
+  0.1% 7/rcu_preempt: 0% user + 0.1% kernel
+  0% 1710/statsd: 0% user + 0% kernel
+  0% 1714/rild: 0% user + 0% kernel
+  0.1% 2140/com.android.phone: 0% user + 0.1% kernel / faults: 6 minor
+  0.1% 2593/com.google.android.gms.persistent: 0.1% user + 0% kernel / faults: 22 minor
+  0% 3902/kworker/1:0: 0% user + 0% kernel
+ +0% 6525/dumpsys: 0% user + 0% kernel
+51% TOTAL: 26% user + 25% kernel + 0% softirq

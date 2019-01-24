@@ -1,5 +1,5 @@
 Latency: 0ms [512B Data Write]
-Recent Disk Write Speed (kB/s) = 5700
-Data-Free: 388212K / 793488K total = 48% free
-Cache-Free: 388212K / 793488K total = 48% free
+Recent Disk Write Speed (kB/s) = 5550
+Data-Free: 438180K / 793488K total = 55% free
+Cache-Free: 438180K / 793488K total = 55% free
 System-Free: 764636K / 2539468K total = 30% free
