@@ -2,6 +2,7 @@ from flask import Flask, render_template, redirect, url_for, request
 import random
 
 app = Flask(__name__)
+app.config['SERVER_NAME'] = "localhost:5000"
 all_words = [line.rstrip('\n') for line in open("words.txt")]
 hangman_word = ""
 num_characters = ""
