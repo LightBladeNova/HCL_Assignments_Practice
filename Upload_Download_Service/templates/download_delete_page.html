@@ -1,13 +1,14 @@
 <html>
     <head>
-        <title>Choose File to Delete</title>
+        <title>Choose File to Download/Delete</title>
     </head>
     <body>
-        <h1>Delete Page: Choose File to Delete</h1>
-        <form action="/delete" method="POST" enctype="multipart/form-data">
+        <h1>Download/Delete Page: Choose File to Download/Delete</h1>
+        <form action="/download_or_delete" method="POST" enctype="multipart/form-data">
             {% for file in all_files %}
-                <input type="radio" name="delete_file" value="{{ file }}"> {{ file }} <br>
+                <input type="radio" name="file" value="{{ file }}"> {{ file }} <br>
             {% endfor %}
+            <input type="submit" name="download" value="Download">
             <input type="submit" name="delete" value="Delete">
             <input id="0" type="radio" name="dummy" value="0" checked> <br>
         </form>

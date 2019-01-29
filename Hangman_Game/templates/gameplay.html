@@ -56,7 +56,7 @@
                 all_radio_buttons[i].disabled = true;
             }
             document.getElementById("submit").disabled = true;
-            document.getElementById("answer").innerHTML = "Answer: " + {{ answer|tojson }};
+            document.getElementById("answer").innerHTML = "Answer: {{ answer }}";
         }
     </script>
 </html>

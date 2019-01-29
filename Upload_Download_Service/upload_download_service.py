@@ -34,42 +34,23 @@ def upload_file():
 	elif request.method == 'GET':
 		return redirect(url_for('file_uploader_downloader'))
 
-@app.route("/download", methods=['GET', 'POST'])
-def download_file():
+@app.route("/download_or_delete", methods=['GET', 'POST'])
+def download_or_delete_file():
+	all_files = [file for file in os.listdir(app.config['UPLOAD_FOLDER']) if file != '.DS_Store']
+	all_files.sort()
 	if request.method == 'POST':
-		if "download_page" in request.form:
-			all_files = [file for file in os.listdir(app.config['UPLOAD_FOLDER']) if file != '.DS_Store']
-			all_files.sort()
-			return render_template('download_page.html', all_files=all_files)
-		elif "download_file" in request.form:
-			file = request.form["download_file"]
+		if "download_delete_page" in request.form:
+			return render_template('download_delete_page.html', all_files=all_files)
+		elif "download" in request.form and "file" in request.form:
+			file = request.form["file"]
 			return send_from_directory(app.config['UPLOAD_FOLDER'], file, as_attachment=True)
-		elif "dummy" in request.form:
-			all_files = [file for file in os.listdir(app.config['UPLOAD_FOLDER']) if file != '.DS_Store']
-			all_files.sort()
-			return render_template('download_page.html', all_files=all_files)
-		else:
-			return redirect(url_for('file_uploader_downloader'))
-	elif request.method == 'GET':
-		return redirect(url_for('file_uploader_downloader'))
-
-@app.route("/delete", methods=['GET', 'POST'])
-def delete_file():
-	if request.method == 'POST':
-		if "delete_page" in request.form:
-			all_files = [file for file in os.listdir(app.config['UPLOAD_FOLDER']) if file != '.DS_Store']
-			all_files.sort()
-			return render_template('delete_page.html', all_files=all_files)
-		elif "delete_file" in request.form:
-			file = request.form["delete_file"]
+		elif "delete" in request.form and "file" in request.form:
+			file = request.form["file"]
 			os.remove(os.path.join(app.config['UPLOAD_FOLDER'], file))
-			all_files = [file for file in os.listdir(app.config['UPLOAD_FOLDER']) if file != '.DS_Store']
-			all_files.sort()
-			return render_template('delete_page.html', all_files=all_files)
+			all_files.remove(file)
+			return render_template('download_delete_page.html', all_files=all_files)
 		elif "dummy" in request.form:
-			all_files = [file for file in os.listdir(app.config['UPLOAD_FOLDER']) if file != '.DS_Store']
-			all_files.sort()
-			return render_template('delete_page.html', all_files=all_files)
+			return render_template('download_delete_page.html', all_files=all_files)
 		else:
 			return redirect(url_for('file_uploader_downloader'))
 	elif request.method == 'GET':

@@ -8,11 +8,8 @@
         	<input type="file" name="file">
             <input type="submit" value="Upload">
 		</form>
-        <form action="/download" method="POST">
-            <input type="submit" name="download_page" value="To Download Page">
-        </form>
-        <form action="/delete" method="POST">
-            <input type="submit" name="delete_page" value="To Delete Page">
+        <form action="/download_or_delete" method="POST">
+            <input type="submit" name="download_delete_page" value="To Download/Delete Page">
         </form>
         <h2>{{ file_upload_status }}</h2>
         <h2>{{ filename }}</h2>
