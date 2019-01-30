@@ -28,7 +28,7 @@ def upload_file():
 			file_upload_status = "File successfully uploaded!"
 			file_size = os.path.getsize("./uploads/" + filename_secure)
 			return render_template('file_uploader_downloader.html', file_upload_status = file_upload_status,
-				filename="File Name: " + filename_secure, filesize="Fize Size (Bytes): " + str(file_size))
+				filename="File Name: " + filename_secure, filesize="File Size (Bytes): " + str(file_size))
 		else:
 			return redirect(url_for('file_uploader_downloader'))
 	elif request.method == 'GET':
